@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.hero {
+   
+   background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), 
+   url("img/salman-ahmad-R8Bs1_2oRL8-unsplash.jpg");
+    background-size: cover;
+    min-height: 100vh;
+    background-position: center;
+}
+
+
+html {
+    font-size: 62.5%;
+}
+
+
+
+.content {
+    width: 50rem;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.content h1 {
+    font-size: 3rem;
+    color: #fff;
+    text-shadow: 0 0 0.5rem black;
+    letter-spacing: 2px;
+}
+.content p {
+    font-size: 1.4rem;
+    margin-top: 1rem;
+    line-height: 2.5rem;
+   
+    color: #fff;
+    text-shadow: 0 0 0.5rem black;
+}
+
+
+.places_to_visit{
+    background-color: #f2fbed;
+    text-align: center;
+    padding: 4rem 0;
+   
+}
+
+.places_to_visit h2 {
+    font-size: 2.5rem;
+}
+
+.places_container {
+    min-height: 50vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+
+.places_descriptions h3 {
+    margin: 1rem 0  1.3rem;
+    font-size: 1.5rem;
+}
+
+.places_descriptions p {
+    font-size: 1.3rem;
+}
+
+.places_descriptions img {
+    border-radius: 50%;
+}
+
