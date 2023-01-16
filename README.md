@@ -6,3 +6,4 @@ taught by per the CEO of scrimba
 
 
 live: https://joseph-martin-developer.github.io/Solo-Project-Scrimba/
+link to the project: https://youtu.be/a_iQb1lnAEQ 
